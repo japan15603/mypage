@@ -13,4 +13,4 @@
 
 *เพิ่มเติม*
 
-[การสมัคร GIHUB](https://drive.google.com/file/d/1hrUSpOf8nhmWEVq0aO8ocSm35erum3sU/view?usp=sharing)
+[การสมัคร GITHUB](https://drive.google.com/file/d/1hrUSpOf8nhmWEVq0aO8ocSm35erum3sU/view?usp=sharing)
